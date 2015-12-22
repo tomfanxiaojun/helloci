@@ -41,4 +41,8 @@ public class AppTest {
 	public void testBySelf() {
 		assertTrue((1+1)==2);
 	}
+	@Test
+	public void testBySelf01() {
+		assertTrue((1+1)==2);
+	}
 }
