@@ -36,4 +36,9 @@ public class AppTest {
 	public void testAnotherClass() {
 		EmptyClass.emptyMethod();
 	}
+	
+	@Test
+	public void testBySelf() {
+		assertTrue((1+1)==2);
+	}
 }
