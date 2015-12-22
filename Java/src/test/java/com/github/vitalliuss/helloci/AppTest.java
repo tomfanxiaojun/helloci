@@ -46,7 +46,7 @@ public class AppTest {
 		assertTrue((1+1)==2);
 	}
 	@Test
-	public void testBySelf02() {
+	public void testBySelf04() {
 		assertTrue((1+1)==2);
 	}
 }
